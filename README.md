@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This app is made on openweather.com API with live data.
 
 A few resources to get you started if this is your first Flutter project:
 
